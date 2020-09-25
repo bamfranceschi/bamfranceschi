@@ -4,7 +4,7 @@ I'm a Full Stack Web Developer based in Austin TX, passionate about creating and
 
 ## Current status 👩🏼‍💻
 - 🔭 Love working on projects with JS, Python, Node, React, React Native, PostgreSQL
-- 🌱 Learning Ruby on Rails, Typescript, Data Science with Pandas
+- 🌱 Learning Ruby on Rails, Typescript, dabbling in data science with Pandas
 - 🎯 Looking to join a fun, collaborative and impactful dev team!
 
 ## Find me here 📬
