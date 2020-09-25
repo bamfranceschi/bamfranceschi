@@ -3,14 +3,14 @@
 I'm a Full Stack Web Developer based in Austin TX, passionate about creating and building, be it with code or any other medium. I'm a self-taught artist and crafter, and apply the same gusto for creating to web development projects.
 
 ## Current status 👩🏼‍💻
-- 🔭 Love working on projects with JS, Python, Node, React, React Native, PostgreSQL
-- 🌱 Learning Ruby on Rails, Typescript, Data Science with Pandas
-- 🎯 Looking to join a fun, collaborative and impactful dev team!
+🔭 Love working on projects with JS, Python, Node, React, React Native, PostgreSQL
+🌱 Learning Ruby on Rails, Typescript, Data Science with Pandas
+🎯 Looking to join a fun, collaborative and impactful dev team!
 
 ## Find me here 📬
-- 📧 <a href="mailto:anna.franceschi@gmail.com">anna.franceschi@gmail.com</a>
-- 🔗 <a href="https://www.linkedin.com/in/anna-franceschi-a50a8584/">LinkedIn</a>
-- ⚡️ <a href="https://annafranceschi.me/">Portfolio</a>
+📧 <a href="mailto:anna.franceschi@gmail.com">anna.franceschi@gmail.com</a>
+🔗 <a href="https://www.linkedin.com/in/anna-franceschi-a50a8584/">LinkedIn</a>
+⚡️ <a href="https://annafranceschi.me/">Portfolio</a>
 
 ## Fun facts 💫
 
