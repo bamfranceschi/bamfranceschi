@@ -17,7 +17,7 @@ I'm a Full Stack Web Developer based in Austin TX, passionate about creating and
 When I'm not coding, I'm rolling with the punches at my Krav Maga studio 🥊, backpacking in West Texas 🏜, hanging with my hubslice Mike and pup-child Lyra 🐕, or cooking 👩🏼‍🍳/gardening 👩🏼‍🌾/reading 📖/crafting 🧶/insert-introvert-hobby-here 👩🏼‍🏫
 <br/>
 <br/>
-[![Anna's github stats](https://github-readme-stats.vercel.app/api?username=bamfranceschi&show_icons=true?theme=vue)](https://github.com/bamfranceschi/github-readme-stats)
+[![Anna's github stats](https://github-readme-stats.vercel.app/api?username=bamfranceschi&show_icons=true?theme=cobalt)](https://github.com/bamfranceschi/github-readme-stats)
 
 <!--
 **bamfranceschi/bamfranceschi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
