@@ -5,7 +5,7 @@ I'm a Full Stack Web Developer based in Austin TX, passionate about creating and
 ## Current status 👩🏼‍💻
 - 🔭 Love working on projects with JS, Python, Node, React, React Native, PostgreSQL
 - 🌱 Learning Ruby on Rails, Typescript, dabbling in data science with Pandas
-- 🎯 Looking to join a fun, collaborative and impactful dev team!
+- 🎯 ~Looking to join a fun, collaborative and impactful dev team!~ Found my peeps @ <a href="https://www.growgardenio.com/">Gardenio</a> 🌿🥬🥕
 
 ## Find me here 📬
 - 📧 <a href="mailto:anna.franceschi@gmail.com">anna.franceschi@gmail.com</a>
